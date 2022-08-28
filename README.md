@@ -1,1 +1,1 @@
-# MERN_Multi_Vendors_Ecommerce
+# MERN_MV_Ecommerce
